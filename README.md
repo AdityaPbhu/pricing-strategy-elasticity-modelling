@@ -75,7 +75,6 @@ This project demonstrates how **data-driven pricing strategies** can drive profi
 ## Repository Structure
 
 - `pricing_strategy_elasticity.ipynb` – Main analysis notebook
-- `images/` – Plots and visual outputs (insert your scatterplot here)
 
 ---
 
